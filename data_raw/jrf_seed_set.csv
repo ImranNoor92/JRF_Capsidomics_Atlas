@@ -1,0 +1,31 @@
+protein_id,virus_name,virus_abbrev,protein_name,capsid_role,genome_type,host_category,family,architecture_class,t_number,virion_morphology,pdb_ids,primary_pdb,uniprot_id,reference_pmid,notes,evidence_level,source
+P03135,Adeno-associated virus 2,AAV2,VP1/VP2/VP3,MCP,ssDNA,Eukaryota_Animal,Parvoviridae,SJR,pseudo-T=3,icosahedral,1LP3;6IH9;3J1Q,1LP3,P03135,12644448,Well-characterized gene therapy vector capsid,high,seed_set_v1
+P03132,Canine parvovirus,CPV,VP2,MCP,ssDNA,Eukaryota_Animal,Parvoviridae,SJR,pseudo-T=3,icosahedral,2CAS;4DPV,2CAS,P03132,8709232,Prototype parvovirus structure,high,seed_set_v1
+P07299,B19 virus,B19V,VP2,MCP,ssDNA,Eukaryota_Animal,Parvoviridae,SJR,pseudo-T=3,icosahedral,1S58,1S58,P07299,15163499,Human parvovirus,high,seed_set_v1
+P03134,Minute virus of mice,MVM,VP2,MCP,ssDNA,Eukaryota_Animal,Parvoviridae,SJR,pseudo-T=3,icosahedral,1MVM,1MVM,P03134,8709232,Protoparvovirus model,high,seed_set_v1
+Q9YW43,Porcine circovirus 2,PCV2,Capsid protein,MCP,ssDNA,Eukaryota_Animal,Circoviridae,SJR,T=1,icosahedral,3R0R,3R0R,Q9YW43,21832183,Small circular DNA virus,high,seed_set_v1
+Q91AV4,Beak and feather disease virus,BFDV,Capsid protein,MCP,ssDNA,Eukaryota_Animal,Circoviridae,SJR,T=1,icosahedral,5ZHG,5ZHG,Q91AV4,30111497,Avian circovirus,high,seed_set_v1
+P04332,Maize streak virus,MSV,Coat protein,MCP,ssDNA,Eukaryota_Plant,Geminiviridae,SJR,T=1,geminate,6F2S,6F2S,P04332,29695621,Geminate (twinned) capsid structure,high,seed_set_v1
+Q89437,Ageratum yellow vein virus,AYVV,Coat protein,MCP,ssDNA,Eukaryota_Plant,Geminiviridae,SJR,T=1,geminate,6F2T,6F2T,Q89437,29695621,Begomovirus,high,seed_set_v1
+P03639,Bacteriophage phiX174,phiX174,F protein (coat),MCP,ssDNA,Bacteria,Microviridae,SJR,T=1,icosahedral,2BPA;1CD3,2BPA,P03639,8602507,Classic ssDNA phage,high,seed_set_v1
+P03300,Poliovirus 1,PV1,VP1,MCP,ssRNA+,Eukaryota_Animal,Picornaviridae,SJR,pseudo-T=3,icosahedral,1HXS;2PLV,1HXS,P03300,2538243,"Prototype picornavirus, 3 SJR proteins per protomer",high,seed_set_v1
+P04936,Human rhinovirus 14,HRV14,VP1,MCP,ssRNA+,Eukaryota_Animal,Picornaviridae,SJR,pseudo-T=3,icosahedral,4RHV,4RHV,P04936,3856866,Common cold virus,high,seed_set_v1
+P03305,Foot-and-mouth disease virus,FMDV,VP1,MCP,ssRNA+,Eukaryota_Animal,Picornaviridae,SJR,pseudo-T=3,icosahedral,1BBT,1BBT,P03305,2997611,Agriculturally important,high,seed_set_v1
+P12870,Nodamura virus,NoV,Capsid protein alpha,MCP,ssRNA+,Eukaryota_Animal,Nodaviridae,SJR,T=3,icosahedral,1NOV,1NOV,P12870,8009220,T=3 insect virus,high,seed_set_v1
+P12871,Flock house virus,FHV,Capsid protein alpha,MCP,ssRNA+,Eukaryota_Animal,Nodaviridae,SJR,T=3,icosahedral,2Z2Q,2Z2Q,P12871,17981124,Model for capsid assembly,high,seed_set_v1
+P03538,Tomato bushy stunt virus,TBSV,Coat protein,MCP,ssRNA+,Eukaryota_Plant,Tombusviridae,SJR,T=3,icosahedral,2TBV,2TBV,P03538,17981127,First T=3 virus structure,high,seed_set_v1
+P11491,Carnation mottle virus,CarMV,Coat protein,MCP,ssRNA+,Eukaryota_Plant,Tombusviridae,SJR,T=3,icosahedral,1OPO,1OPO,P11491,14691228,Plant carmovirus,high,seed_set_v1
+P03600,Cowpea chlorotic mottle virus,CCMV,Coat protein,MCP,ssRNA+,Eukaryota_Plant,Bromoviridae,SJR,T=3,icosahedral,1CWP,1CWP,P03600,7541247,pH-dependent swelling,high,seed_set_v1
+P15476,Infectious bursal disease virus,IBDV,VP2,MCP,dsRNA,Eukaryota_Animal,Birnaviridae,SJR,T=13,icosahedral,1WCE;2GSY,1WCE,P15476,15299144,dsRNA virus with T=13 SJR capsid,high,seed_set_v1
+P27378,Bacteriophage PRD1,PRD1,P3 (MCP),MCP,dsDNA,Bacteria,Tectiviridae,DJR,pseudo-T=25,icosahedral,1W8X;1CJD,1W8X,P27378,15226433,Prototype DJR MCP,high,seed_set_v1
+Q7Y1F5,Bacteriophage Bam35,Bam35,MCP,MCP,dsDNA,Bacteria,Tectiviridae,DJR,pseudo-T=25,icosahedral,6QVV,6QVV,Q7Y1F5,32265281,PRD1-like Gram+ phage,high,seed_set_v1
+P04133,Human adenovirus 5,HAdV-5,Hexon,MCP,dsDNA,Eukaryota_Animal,Adenoviridae,DJR,pseudo-T=25,icosahedral,1P30;6CGV,1P30,P04133,12552133,"Classic DJR MCP, gene therapy vector",high,seed_set_v1
+D2Y2S4,Human adenovirus 26,HAdV-26,Hexon,MCP,dsDNA,Eukaryota_Animal,Adenoviridae,DJR,pseudo-T=25,icosahedral,6B1T,6B1T,D2Y2S4,28855253,Vaccine vector,high,seed_set_v1
+P30316,Paramecium bursaria chlorella virus 1,PBCV-1,Vp54 (MCP),MCP,dsDNA,Eukaryota_Protist,Phycodnaviridae,DJR,T=169,icosahedral,1M3Y,1M3Y,P30316,12438624,Giant virus with DJR MCP,high,seed_set_v1
+P22035,African swine fever virus,ASFV,p72 (MCP),MCP,dsDNA,Eukaryota_Animal,Asfarviridae,DJR,T=214,icosahedral,6KU9,6KU9,P22035,31554923,Large NCLDV with DJR capsid,high,seed_set_v1
+P20536,Vaccinia virus,VACV,D13 (scaffold),minor,dsDNA,Eukaryota_Animal,Poxviridae,DJR,NA,complex,2YGC,2YGC,P20536,20844023,DJR scaffold in non-icosahedral virus,high,seed_set_v1
+Q6KEN9,Sulfolobus turreted icosahedral virus,STIV,B345 (MCP),MCP,dsDNA,Archaea,Turriviridae,DJR,pseudo-T=31,icosahedral,2BBD,2BBD,Q6KEN9,15886398,Archaeal virus with turrets,high,seed_set_v1
+P03583,Tobacco mosaic virus,TMV,30K movement protein,movement,ssRNA+,Eukaryota_Plant,Virgaviridae,JRF_hybrid,NA,filamentous,1VIM,1VIM,P03583,15016364,"Non-capsid JRF protein, cell-to-cell movement",high,seed_set_v1
+P27376,Bacteriophage PRD1,PRD1,P5 (spike),spike,dsDNA,Bacteria,Tectiviridae,SJR,NA,icosahedral,1YQ8,1YQ8,P27376,15919196,"Vertex spike protein, SJR fold",high,seed_set_v1
+P03281,Human adenovirus 2,HAdV-2,Penton base,minor,dsDNA,Eukaryota_Animal,Adenoviridae,SJR,NA,icosahedral,1X9T,1X9T,P03281,16321979,SJR penton base at vertices,high,seed_set_v1
+P03283,Human adenovirus 5,HAdV-5,Protein IX,cement,dsDNA,Eukaryota_Animal,Adenoviridae,other,NA,icosahedral,6CGV,6CGV,P03283,29898905,Cement protein stabilizing capsid,high,seed_set_v1

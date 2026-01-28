@@ -1,0 +1,19 @@
+{
+  "raw_count": 13,
+  "clean_count": 13,
+  "by_jrf_class": {
+    "SJR": 8,
+    "DJR": 5
+  },
+  "by_family": {
+    "Parvoviridae": 3,
+    "Picornaviridae": 2,
+    "Adenoviridae": 2,
+    "Circoviridae": 1,
+    "Phycodnaviridae": 1,
+    "Asfarviridae": 1,
+    "Tombusviridae": 1,
+    "Bromoviridae": 1,
+    "Tectiviridae": 1
+  }
+}

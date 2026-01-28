@@ -1,0 +1,49 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    JRF EVOLUTIONARY LINEAGE SCHEMATIC                         ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║                              ┌─────────────┐                                 ║
+║                              │  Ancestral  │                                 ║
+║                              │    SJR      │                                 ║
+║                              └──────┬──────┘                                 ║
+║                                     │                                        ║
+║              ┌──────────────────────┼──────────────────────┐                ║
+║              │                      │                      │                ║
+║              ▼                      ▼                      ▼                ║
+║     ┌────────────────┐    ┌────────────────┐    ┌────────────────┐         ║
+║     │  RNA Virus     │    │  ssDNA Virus   │    │ Gene Duplication│         ║
+║     │  SJR Capsids   │    │  SJR Capsids   │    │      Event      │         ║
+║     └───────┬────────┘    └───────┬────────┘    └───────┬────────┘         ║
+║             │                     │                     │                   ║
+║    ┌────────┼────────┐   ┌───────┼───────┐             ▼                   ║
+║    ▼        ▼        ▼   ▼       ▼       ▼    ┌────────────────┐           ║
+║ ┌──────┐┌──────┐┌──────┐┌──────┐┌──────┐┌──────┐│      DJR       │           ║
+║ │Picorna││Noda- ││Tombus││Parvo-││Circo-││Gemini││   (PRD1-like)  │           ║
+║ │viridae││viridae││viridae││viridae││viridae││viridae│└───────┬────────┘           ║
+║ │(pT=3) ││(T=3) ││(T=3) ││(pT=3)││(T=1) ││(T=1) │        │                   ║
+║ └──────┘└──────┘└──────┘└──────┘└──────┘└──────┘        │                   ║
+║                                                          │                   ║
+║                              ┌──────────────────────────┼───────────────────┐║
+║                              │                          │                   │║
+║                              ▼                          ▼                   ▼║
+║                    ┌────────────────┐         ┌────────────────┐  ┌──────────────┐║
+║                    │  Tectiviridae  │         │  Adenoviridae  │  │    NCLDVs    │║
+║                    │  (PRD1, pT=25) │         │   (pT=25)      │  │  (T>100)     │║
+║                    └────────────────┘         └────────────────┘  └──────────────┘║
+║                                                                              ║
+║     ═══════════════════ NEOFUNCTIONALIZATION ═══════════════════            ║
+║                                                                              ║
+║     SJR Capsid ──────────────────────────▶ Movement Proteins (30K)          ║
+║     DJR Capsid ──────────────────────────▶ Scaffold Proteins (Poxvirus D13) ║
+║     SJR Capsid ──────────────────────────▶ Nucleoplasmin-like               ║
+║                                                                              ║
+║     ════════════════════ KEY OBSERVATIONS ══════════════════════            ║
+║                                                                              ║
+║     • SJR orientation: Tangential (sheets parallel to surface)               ║
+║     • DJR orientation: Perpendicular (β-barrels point outward)              ║
+║     • T-number correlates with variable region insertions                   ║
+║     • DJR likely arose from SJR tandem duplication                          ║
+║     • DJR lineage shows vertical inheritance: Bacteria → Archaea → Eukarya  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝

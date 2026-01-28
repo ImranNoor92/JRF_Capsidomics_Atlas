@@ -1,0 +1,14 @@
+uniprot_id,structure_id,organism,taxonomy_id,inferred_family,realm,host_category,protein_name,protein_length,pfam_source,capsid_role,architecture_class,virion_morphology,t_number,genome_type,jrf_orientation,pfam_jrf_class,pfam_capsid_role,structure_source,evidence_level,source,family,is_virus
+P03135,,Adeno-associated virus 2,10804,Parvoviridae,,,Capsid protein VP1,735,PF00740,MCP,SJR,icosahedral,pseudo-T=3,ssDNA,tangential,SJR,MCP,,high,simulated_demo,Parvoviridae,True
+A0A0B4J2A1,,Adeno-associated virus 5,68476,Parvoviridae,,,Capsid protein,724,PF00740,MCP,SJR,icosahedral,pseudo-T=3,ssDNA,tangential,SJR,MCP,,high,simulated_demo,Parvoviridae,True
+P03132,,Canine parvovirus,10786,Parvoviridae,,,Capsid protein VP2,584,PF00740,MCP,SJR,icosahedral,pseudo-T=3,ssDNA,tangential,SJR,MCP,,high,simulated_demo,Parvoviridae,True
+P03300,,Poliovirus type 1,12081,Picornaviridae,,,Capsid protein VP1,302,PF00729,MCP,SJR,icosahedral,pseudo-T=3,ssRNA+,tangential,SJR,MCP,,high,simulated_demo,Picornaviridae,True
+P04936,,Human rhinovirus 14,12130,Picornaviridae,,,Capsid protein VP1,289,PF00729,MCP,SJR,icosahedral,pseudo-T=3,ssRNA+,tangential,SJR,MCP,,high,simulated_demo,Picornaviridae,True
+Q9YW43,,Porcine circovirus 2,85708,Circoviridae,,,Capsid protein,233,PF08398,MCP,SJR,icosahedral,T=1,ssDNA,tangential,SJR,MCP,,high,simulated_demo,Circoviridae,True
+P04133,,Human adenovirus 5,28285,Adenoviridae,,,Hexon protein,952,PF00608,MCP,DJR,icosahedral,pseudo-T=25,dsDNA,perpendicular,DJR,MCP,,high,simulated_demo,Adenoviridae,True
+D2Y2S4,,Human adenovirus 26,145628,Adenoviridae,,,Hexon protein,946,PF00608,MCP,DJR,icosahedral,pseudo-T=25,dsDNA,perpendicular,DJR,MCP,,high,simulated_demo,Adenoviridae,True
+P30316,,Paramecium bursaria chlorella virus 1,10506,Phycodnaviridae,,,Major capsid protein Vp54,437,PF04663,MCP,DJR,icosahedral,T=169,dsDNA,perpendicular,DJR,MCP,,high,simulated_demo,Phycodnaviridae,True
+P22035,,African swine fever virus,10497,Asfarviridae,,,Major capsid protein p72,646,PF04894,MCP,DJR,icosahedral,T=214,dsDNA,perpendicular,DJR,MCP,,high,simulated_demo,Asfarviridae,True
+P03538,,Tomato bushy stunt virus,12149,Tombusviridae,,,Coat protein,387,PF02227,MCP,SJR,icosahedral,T=3,ssRNA+,tangential,SJR,MCP,,high,simulated_demo,Tombusviridae,True
+P03600,,Cowpea chlorotic mottle virus,12264,Bromoviridae,,,Coat protein,190,PF02227,MCP,SJR,icosahedral,T=3,ssRNA+,tangential,SJR,MCP,,high,simulated_demo,Bromoviridae,True
+P27378,,Enterobacteria phage PRD1,10658,Tectiviridae,,,Major capsid protein P3,395,PF04451,MCP,DJR,icosahedral,pseudo-T=25,dsDNA,perpendicular,DJR,MCP,,high,simulated_demo,Tectiviridae,True

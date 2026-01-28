@@ -1,0 +1,31 @@
+protein_id,uniprot_id,virus_name,protein_name,architecture_class,capsid_role,primary_pdb,pfam_domains,pfam_count
+P03135,P03135,Adeno-associated virus 2,VP1/VP2/VP3,SJR,MCP,1LP3,PF00740,1
+P03132,P03132,Canine parvovirus,VP2,SJR,MCP,2CAS,PF00740,1
+P07299,P07299,B19 virus,VP2,SJR,MCP,1S58,PF00740,1
+P03134,P03134,Minute virus of mice,VP2,SJR,MCP,1MVM,PF00740,1
+Q9YW43,Q9YW43,Porcine circovirus 2,Capsid protein,SJR,MCP,3R0R,PF08398,1
+Q91AV4,Q91AV4,Beak and feather disease virus,Capsid protein,SJR,MCP,5ZHG,PF08398,1
+P04332,P04332,Maize streak virus,Coat protein,SJR,MCP,6F2S,PF08410,1
+Q89437,Q89437,Ageratum yellow vein virus,Coat protein,SJR,MCP,6F2T,PF08410,1
+P03639,P03639,Bacteriophage phiX174,F protein (coat),SJR,MCP,2BPA,PF02956,1
+P03300,P03300,Poliovirus 1,VP1,SJR,MCP,1HXS,PF00729,1
+P04936,P04936,Human rhinovirus 14,VP1,SJR,MCP,4RHV,PF00729,1
+P03305,P03305,Foot-and-mouth disease virus,VP1,SJR,MCP,1BBT,PF00729,1
+P12870,P12870,Nodamura virus,Capsid protein alpha,SJR,MCP,1NOV,PF01141,1
+P12871,P12871,Flock house virus,Capsid protein alpha,SJR,MCP,2Z2Q,PF01141,1
+P03538,P03538,Tomato bushy stunt virus,Coat protein,SJR,MCP,2TBV,PF02227,1
+P11491,P11491,Carnation mottle virus,Coat protein,SJR,MCP,1OPO,PF02227,1
+P03600,P03600,Cowpea chlorotic mottle virus,Coat protein,SJR,MCP,1CWP,PF02227,1
+P15476,P15476,Infectious bursal disease virus,VP2,SJR,MCP,1WCE,PF02305,1
+P27378,P27378,Bacteriophage PRD1,P3 (MCP),DJR,MCP,1W8X,PF04451,1
+Q7Y1F5,Q7Y1F5,Bacteriophage Bam35,MCP,DJR,MCP,6QVV,PF04451,1
+P04133,P04133,Human adenovirus 5,Hexon,DJR,MCP,1P30,PF00608;PF09018,2
+D2Y2S4,D2Y2S4,Human adenovirus 26,Hexon,DJR,MCP,6B1T,PF00608;PF09018,2
+P30316,P30316,Paramecium bursaria chlorella virus 1,Vp54 (MCP),DJR,MCP,1M3Y,PF04663,1
+P22035,P22035,African swine fever virus,p72 (MCP),DJR,MCP,6KU9,PF04894,1
+P20536,P20536,Vaccinia virus,D13 (scaffold),DJR,minor,2YGC,PF04451,1
+Q6KEN9,Q6KEN9,Sulfolobus turreted icosahedral virus,B345 (MCP),DJR,MCP,2BBD,PF04451,1
+P03583,P03583,Tobacco mosaic virus,30K movement protein,JRF_hybrid,movement,1VIM,PF01107,1
+P27376,P27376,Bacteriophage PRD1,P5 (spike),SJR,spike,1YQ8,PF03016,1
+P03281,P03281,Human adenovirus 2,Penton base,SJR,minor,1X9T,PF03016,1
+P03283,P03283,Human adenovirus 5,Protein IX,other,cement,6CGV,,0

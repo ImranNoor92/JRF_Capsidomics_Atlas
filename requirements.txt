@@ -1,0 +1,29 @@
+# JRF Capsidomics Atlas - Python Requirements
+# Install with: pip install -r requirements.txt
+
+# Core data handling
+pandas>=1.5.0
+numpy>=1.21.0
+
+# API access and web requests
+requests>=2.28.0
+
+# Bioinformatics
+biopython>=1.79
+
+# Clustering and analysis
+scipy>=1.9.0
+
+# Network analysis
+networkx>=2.8
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Excel export (optional)
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
+
+# JSON handling (built-in, but listed for reference)
+# json - standard library

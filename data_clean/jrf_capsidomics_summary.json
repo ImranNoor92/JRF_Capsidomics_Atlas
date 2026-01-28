@@ -1,0 +1,41 @@
+{
+  "total_entries": 13,
+  "by_evidence_level": {
+    "high": 13
+  },
+  "by_architecture": {
+    "SJR": 8,
+    "DJR": 5
+  },
+  "by_capsid_role": {
+    "MCP": 13
+  },
+  "by_t_number": {
+    "pseudo-T=3": 5,
+    "pseudo-T=25": 3,
+    "T=3": 2,
+    "T=1": 1,
+    "T=169": 1,
+    "T=214": 1
+  },
+  "by_genome_type": {
+    "dsDNA": 5,
+    "ssDNA": 4,
+    "ssRNA+": 4
+  },
+  "by_family": {
+    "Parvoviridae": 3,
+    "Picornaviridae": 2,
+    "Adenoviridae": 2,
+    "Circoviridae": 1,
+    "Phycodnaviridae": 1,
+    "Asfarviridae": 1,
+    "Tombusviridae": 1,
+    "Bromoviridae": 1,
+    "Tectiviridae": 1
+  },
+  "by_morphology": {
+    "icosahedral": 13
+  },
+  "with_structure": 0
+}

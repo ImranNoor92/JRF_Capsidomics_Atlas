@@ -1,0 +1,30 @@
+{
+  "total_entries": 13,
+  "unique_families": 9,
+  "architecture_distribution": {
+    "SJR": 8,
+    "DJR": 5
+  },
+  "genome_type_distribution": {
+    "dsDNA": 5,
+    "ssDNA": 4,
+    "ssRNA+": 4
+  },
+  "t_number_distribution": {
+    "pseudo-T=3": 5,
+    "pseudo-T=25": 3,
+    "T=3": 2,
+    "T=1": 1,
+    "T=169": 1,
+    "T=214": 1
+  },
+  "capsid_role_distribution": {
+    "MCP": 13
+  },
+  "evidence_level_distribution": {
+    "high": 13
+  },
+  "with_structure": 0,
+  "sjr_count": 8,
+  "djr_count": 5
+}

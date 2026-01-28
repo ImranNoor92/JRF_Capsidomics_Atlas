@@ -1,0 +1,22 @@
+{
+  "total_pfams": 19,
+  "by_jrf_class": {
+    "SJR": 10,
+    "DJR": 6,
+    "JRF_derived": 2,
+    "other": 1
+  },
+  "by_capsid_role": {
+    "MCP": 14,
+    "minor": 2,
+    "movement": 1,
+    "non-capsid": 1,
+    "spike": 1
+  },
+  "by_confidence": {
+    "high": 16,
+    "medium": 3
+  },
+  "capsid_pfams": 17,
+  "non_capsid_pfams": 2
+}

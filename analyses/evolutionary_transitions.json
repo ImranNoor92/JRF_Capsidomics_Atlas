@@ -1,0 +1,38 @@
+[
+  {
+    "transition": "SJR \u2192 DJR duplication",
+    "description": "Gene duplication event creating the double jelly-roll fold",
+    "evidence": "Structural similarity between DJR halves; DJR internal symmetry",
+    "from_arch": "SJR",
+    "to_arch": "DJR",
+    "mechanism": "Tandem gene duplication",
+    "support_level": "high"
+  },
+  {
+    "transition": "DJR vertical inheritance",
+    "description": "PRD1 \u2192 Adenovirus \u2192 NCLDV lineage sharing DJR MCP",
+    "evidence": "High TM-scores between PRD1, Adenovirus, Phycodnavirus MCPs",
+    "from_arch": "DJR",
+    "to_arch": "DJR",
+    "mechanism": "Vertical inheritance across hosts",
+    "support_level": "high"
+  },
+  {
+    "transition": "SJR capsid \u2192 movement protein",
+    "description": "Repurposing of SJR capsid fold for cell-to-cell movement",
+    "evidence": "Structural homology of 30K superfamily to SJR capsid",
+    "from_arch": "SJR",
+    "to_arch": "JRF_derived",
+    "mechanism": "Neofunctionalization",
+    "support_level": "high"
+  },
+  {
+    "transition": "T-number expansion",
+    "description": "Evolution of larger T-numbers via loop insertions",
+    "evidence": "Variable region insertions correlate with T-number increase",
+    "from_arch": "SJR",
+    "to_arch": "SJR",
+    "mechanism": "Loop insertion/expansion",
+    "support_level": "high"
+  }
+]

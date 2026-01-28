@@ -1,0 +1,20 @@
+pfam_id,pfam_name,description,jrf_class,capsid_role,confidence,is_capsid_pfam,is_jrf_derived,example_viruses,example_pdbs
+PF00608,Adeno_hexon,Adenovirus hexon protein,DJR,MCP,high,True,False,Human adenovirus,1P30
+PF09018,Adeno_hexon_N,Adenovirus hexon N-terminal domain,DJR,MCP,high,True,False,Human adenovirus,1P30
+PF04451,DUF557,PRD1-type double jelly-roll MCP,DJR,MCP,high,True,False,"PRD1, Bam35",1W8X
+PF04663,Phycodnavirus_MCP,Phycodnavirus major capsid protein,DJR,MCP,high,True,False,"PBCV-1, Chlorella viruses",1M3Y
+PF04894,ASFV_p72,African swine fever virus p72 MCP,DJR,MCP,high,True,False,ASFV,6KU9
+PF04537,Iridovirus_MCP,Iridovirus major capsid protein,DJR,MCP,high,True,False,"Iridoviruses, Chloriridovirus",4OW6
+PF01107,30Kc,30K cell-to-cell movement protein,JRF_derived,movement,high,False,True,"TMV, Tobamoviruses",1VIM
+PF00927,Nucleoplasmin,Nucleoplasmin domain,JRF_derived,non-capsid,medium,False,True,Cellular proteins (JRF-derived fold),1K5J
+PF00729,Viral_coat,Viral coat protein (VP1/VP2/VP3),SJR,MCP,high,True,False,"Picornaviruses, Enteroviruses","2PLV,1HXS"
+PF00740,Parvo_coat,Parvovirus coat protein VP1/VP2,SJR,MCP,high,True,False,"AAV, CPV, B19","1LP3,2CAS"
+PF02227,Viral_caps,Viral capsid protein,SJR,MCP,high,True,False,Plant ssRNA viruses,"2TBV,1CWP"
+PF08398,Circovirus_cap,Circovirus capsid protein,SJR,MCP,high,True,False,"PCV2, BFDV",3R0R
+PF01141,Noda_capsid,Nodavirus capsid protein,SJR,MCP,high,True,False,"Flock house virus, Nodamura virus","1NOV,2Z2Q"
+PF00910,RNA_phage_coat,RNA bacteriophage coat protein,SJR,MCP,high,True,False,"MS2, Qbeta",2MS2
+PF08410,Gemini_CP,Geminivirus coat protein,SJR,MCP,high,True,False,"Maize streak virus, TYLCV",6F2S
+PF02305,Birna_VP,Birnavirus VP2/VP3 capsid,SJR,MCP,high,True,False,"IBDV, IPNV",1WCE
+PF03016,Penton_base,Adenovirus penton base,SJR,minor,high,True,False,Adenoviruses,1X9T
+PF02956,Microvir_J,Microviridae pilot protein,SJR,minor,medium,True,False,phiX174,2BPA
+PF04547,Adeno_fiber,Adenovirus fiber protein,other,spike,medium,True,False,Adenoviruses,1QIU

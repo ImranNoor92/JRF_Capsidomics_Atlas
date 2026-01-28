@@ -1,0 +1,14 @@
+uniprot_id,protein_name,organism,taxonomy_id,protein_length,pfam_source,pfam_jrf_class,pfam_capsid_role,family,is_virus,evidence_level,source
+P03135,Capsid protein VP1,Adeno-associated virus 2,10804,735,PF00740,SJR,MCP,Parvoviridae,True,high,simulated_demo
+A0A0B4J2A1,Capsid protein,Adeno-associated virus 5,68476,724,PF00740,SJR,MCP,Parvoviridae,True,high,simulated_demo
+P03132,Capsid protein VP2,Canine parvovirus,10786,584,PF00740,SJR,MCP,Parvoviridae,True,high,simulated_demo
+P03300,Capsid protein VP1,Poliovirus type 1,12081,302,PF00729,SJR,MCP,Picornaviridae,True,high,simulated_demo
+P04936,Capsid protein VP1,Human rhinovirus 14,12130,289,PF00729,SJR,MCP,Picornaviridae,True,high,simulated_demo
+Q9YW43,Capsid protein,Porcine circovirus 2,85708,233,PF08398,SJR,MCP,Circoviridae,True,high,simulated_demo
+P04133,Hexon protein,Human adenovirus 5,28285,952,PF00608,DJR,MCP,Adenoviridae,True,high,simulated_demo
+D2Y2S4,Hexon protein,Human adenovirus 26,145628,946,PF00608,DJR,MCP,Adenoviridae,True,high,simulated_demo
+P30316,Major capsid protein Vp54,Paramecium bursaria chlorella virus 1,10506,437,PF04663,DJR,MCP,Phycodnaviridae,True,high,simulated_demo
+P22035,Major capsid protein p72,African swine fever virus,10497,646,PF04894,DJR,MCP,Asfarviridae,True,high,simulated_demo
+P03538,Coat protein,Tomato bushy stunt virus,12149,387,PF02227,SJR,MCP,Tombusviridae,True,high,simulated_demo
+P03600,Coat protein,Cowpea chlorotic mottle virus,12264,190,PF02227,SJR,MCP,Bromoviridae,True,high,simulated_demo
+P27378,Major capsid protein P3,Enterobacteria phage PRD1,10658,395,PF04451,DJR,MCP,Tectiviridae,True,high,simulated_demo

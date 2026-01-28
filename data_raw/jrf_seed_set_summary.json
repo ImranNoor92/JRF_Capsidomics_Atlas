@@ -1,0 +1,49 @@
+{
+  "total_proteins": 30,
+  "by_architecture": {
+    "SJR": 20,
+    "DJR": 8,
+    "JRF_hybrid": 1,
+    "other": 1
+  },
+  "by_genome_type": {
+    "dsDNA": 11,
+    "ssDNA": 9,
+    "ssRNA+": 9,
+    "dsRNA": 1
+  },
+  "by_host": {
+    "Eukaryota_Animal": 18,
+    "Eukaryota_Plant": 6,
+    "Bacteria": 4,
+    "Eukaryota_Protist": 1,
+    "Archaea": 1
+  },
+  "by_capsid_role": {
+    "MCP": 25,
+    "minor": 2,
+    "movement": 1,
+    "spike": 1,
+    "cement": 1
+  },
+  "by_family": {
+    "Parvoviridae": 4,
+    "Adenoviridae": 4,
+    "Picornaviridae": 3,
+    "Tectiviridae": 3,
+    "Circoviridae": 2,
+    "Geminiviridae": 2,
+    "Nodaviridae": 2,
+    "Tombusviridae": 2,
+    "Microviridae": 1,
+    "Bromoviridae": 1,
+    "Birnaviridae": 1,
+    "Phycodnaviridae": 1,
+    "Asfarviridae": 1,
+    "Poxviridae": 1,
+    "Turriviridae": 1,
+    "Virgaviridae": 1
+  },
+  "with_pdb": 30,
+  "with_uniprot": 30
+}

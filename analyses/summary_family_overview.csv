@@ -1,0 +1,10 @@
+Family,Protein Count,Architecture,Genome Type,T-Number,With Structure,High Confidence
+Parvoviridae,3,SJR,ssDNA,pseudo-T=3,0,3
+Picornaviridae,2,SJR,ssRNA+,pseudo-T=3,0,2
+Adenoviridae,2,DJR,dsDNA,pseudo-T=25,0,2
+Circoviridae,1,SJR,ssDNA,T=1,0,1
+Phycodnaviridae,1,DJR,dsDNA,T=169,0,1
+Asfarviridae,1,DJR,dsDNA,T=214,0,1
+Tombusviridae,1,SJR,ssRNA+,T=3,0,1
+Bromoviridae,1,SJR,ssRNA+,T=3,0,1
+Tectiviridae,1,DJR,dsDNA,pseudo-T=25,0,1

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """
 Phase 1: Build Gold-Standard Seed Set of Confirmed JRF Proteins
 ================================================================
@@ -728,7 +728,7 @@ def main():
     
     # Step 2: Optionally enrich with UniProt data
     # Comment out to skip API calls during testing
-    # df = enrich_with_uniprot(df)
+    df = enrich_with_uniprot(df)
     
     # Step 3: Save raw seed set
     output_path = DATA_RAW / "jrf_seed_set.csv"

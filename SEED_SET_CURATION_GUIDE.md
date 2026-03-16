@@ -10,13 +10,13 @@ Build the seed set in three stages:
 2. Find the canonical structural paper for each
 3. Extract and verify every field from that paper and its associated database entries
 
-Nothing goes into the CSV unless you can cite the exact paper it came from.
+Nothing goes into the CSV unless I can cite the exact paper it came from.
 
 ---
 
-## Stage 1 — Define your 50 slots by family
+## Stage 1 — Define my 50 slots by family
 
-Allocate slots across JRF lineages before you look up anything. This prevents bias toward well-studied families.
+Allocate slots across JRF lineages before I look up anything. This prevents bias toward well-studied families.
 
 | Lineage | Families to cover | Slots |
 |---|---|---|
@@ -30,13 +30,13 @@ Allocate slots across JRF lineages before you look up anything. This prevents bi
 | JRF-derived non-capsid | Movement proteins (30K family), turret/spike proteins | 4 |
 | Unclassified / novel lineages | Emerging structural hits from recent cryo-EM papers | 7 |
 
-Adjust slots as you go — if a family has no solved structure yet, replace it. The goal is phylogenetic and functional breadth, not filling every slot for its own sake.
+Adjust slots as I go — if a family has no solved structure yet, replace it. The goal is phylogenetic and functional breadth, not filling every slot for its own sake.
 
 ---
 
 ## Stage 2 — Find the primary structure paper for each slot
 
-For each family in your allocation, find the **original structure determination paper** — not a review, not a database entry, but the paper where the structure was first published or the most authoritative high-resolution revision.
+For each family in my allocation, find the **original structure determination paper** — not a review, not a database entry, but the paper where the structure was first published or the most authoritative high-resolution revision.
 
 ### Step 2a — Search PubMed
 
@@ -59,7 +59,7 @@ Go to https://www.rcsb.org and search the virus family name or virus name. Filte
 - Polymer type: Protein
 - Experimental method: X-RAY DIFFRACTION or ELECTRON MICROSCOPY
 
-For each hit, open the structure page and read the **Primary Citation** field — this is the paper you want.
+For each hit, open the structure page and read the **Primary Citation** field — this is the paper I want.
 
 ### Step 2c — Use ViPER database for icosahedral viruses
 
@@ -80,7 +80,7 @@ Search bioRxiv and the most recent issues of PNAS, Nature, eLife, PLOS Pathogens
 
 ## Stage 3 — Extract every field from the paper and databases
 
-For each of your 50 proteins, open the paper and the PDB/UniProt entry side by side and fill in each field from primary sources only.
+For each of my 50 proteins, open the paper and the PDB/UniProt entry side by side and fill in each field from primary sources only.
 
 ---
 
@@ -173,7 +173,7 @@ If the paper does not explicitly discuss fold topology, look at the figure showi
 
 - Go to https://www.uniprot.org and search by virus name + protein name
 - **Use Swiss-Prot (reviewed) entries only** — look for the gold star/reviewed badge
-- Open the entry and verify: the organism must match your virus exactly, not a different strain
+- Open the entry and verify: the organism must match my virus exactly, not a different strain
 - Record the 6-character accession (e.g., P03135), not the entry name
 
 ---
@@ -199,7 +199,7 @@ After filling in all fields for a protein, run these three checks:
 
 ### Check A — PDB cross-reference
 
-Open the PDB entry. Does the organism name in PDB match your `virus_name`? Does the chain you selected contain the protein you think it does? Read the "Macromolecules" table in the PDB entry.
+Open the PDB entry. Does the organism name in PDB match my `virus_name`? Does the chain I selected contain the protein I think it does? Read the "Macromolecules" table in the PDB entry.
 
 ### Check B — UniProt cross-reference
 
@@ -215,19 +215,19 @@ If any of the three checks fail, go back to the paper and re-derive the field.
 
 ## Stage 5 — Assemble the CSV manually before coding
 
-Before touching the script, build the table in a spreadsheet (Excel or Google Sheets) with one row per protein and one column per field. This lets you:
+Before touching the script, build the table in a spreadsheet (Excel or Google Sheets) with one row per protein and one column per field. This lets I:
 
 - Spot missing values before they become bugs
 - Sort by family to check for duplicate entries
 - Review all 50 rows at once for consistency in controlled vocabulary
 
-Only once the spreadsheet is complete and cross-verified should you transfer it into the `SEED_PROTEINS` list in the script — by replacing the existing hardcoded list with your verified entries.
+Only once the spreadsheet is complete and cross-verified should I transfer it into the `SEED_PROTEINS` list in the script — by replacing the existing hardcoded list with my verified entries.
 
 ---
 
 ## Key sources summary
 
-| What you need | Where to get it |
+| What I need | Where to get it |
 |---|---|
 | Authoritative virus taxonomy | https://ictv.global/taxonomy |
 | Canonical icosahedral capsid structures | https://viperdb.org |
